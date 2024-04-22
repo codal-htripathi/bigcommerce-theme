@@ -1,0 +1,12 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {
+      "practice": "/practice-page"
+    },
+    "product": {}
+  },
+  "normalStoreUrl": "https://store-u3hrjyzyw3.mybigcommerce.com/manage/dashboard",
+  "port": 3000
+}
